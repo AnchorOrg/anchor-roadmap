@@ -1,8 +1,2 @@
-# anchor-time
-
-## Description
-- Mindfulness bell
-- On-the-dot alert ( 整点アラート )
-  -  1,5,10,15,20,60 (6つモード)
-
-
+# anchor-roadmap
+- this repository is to collect the general development timeline and get insights and feedback from users, serve as a public features wall.
